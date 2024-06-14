@@ -1,0 +1,1 @@
+This directory contains all my projects regarding Digital Logic Design. The projects coded in Verilog HDL/SytemVerilog are also coded in VHDL.
